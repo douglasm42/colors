@@ -1,11 +1,11 @@
 import React from 'react';
-import './Next.css';
+import Button from './Button';
 
 function Next(props) {
   return (
-    <div className="Next" onClick={props.handleNext}>
-      >
-    </div>
+    <Button onClick={props.handleNext}>
+      <i class="fa fa-arrow-right" aria-hidden="true"></i>
+    </Button>
   );
 }
 

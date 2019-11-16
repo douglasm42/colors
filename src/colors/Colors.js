@@ -17,8 +17,10 @@ class Colors extends React.Component {
   }
 
   getRandomColor() {
-    let index = Math.floor(Math.random() * this.state.colors.length)
-    console.log(index)
+    let index = null
+    while (index == null || this.state.colors[index] == this.state.currentColor) {
+      index = Math.floor(Math.random() * this.state.colors.length)
+    }
     return this.state.colors[index]
   }
 
