@@ -1,9 +1,3 @@
-.Colors {
-  width: 100%;
-  height: 100vh;
-  padding: 30px;
-}
-
 .Red { background-color: red; }
 .Green { background-color: green; }
 .Blue { background-color: blue; }

@@ -1,0 +1,17 @@
+.Planets {
+  background-color: #000;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+}
+
+.earth { background-image: url("./img/earth.png")}
+.jupiter { background-image: url("./img/jupiter.jpg")}
+.mars { background-image: url("./img/mars.jpg")}
+.mercury { background-image: url("./img/mercury.jpg")}
+.moon { background-image: url("./img/moon.jpg")}
+.neptune { background-image: url("./img/neptune.jpg")}
+.saturn { background-image: url("./img/saturn.jpg")}
+.sun { background-image: url("./img/sun.jpg")}
+.uranus { background-image: url("./img/uranus.jpg")}
+.venus { background-image: url("./img/venus.jpg")}
