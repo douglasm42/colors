@@ -34,7 +34,7 @@ const planetsHard = [
   'venus'
 ]
 
-const planets = planetsEasy
+const planets = planetsHard
 
 function getRandomPlanet() {
   let index = Math.floor(Math.random() * planets.length)
