@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/colors/static/css/main.6274c109.chunk.css",
-    "main.js": "/colors/static/js/main.bf768092.chunk.js",
-    "main.js.map": "/colors/static/js/main.bf768092.chunk.js.map",
-    "runtime-main.js": "/colors/static/js/runtime-main.7b85bbb8.js",
-    "runtime-main.js.map": "/colors/static/js/runtime-main.7b85bbb8.js.map",
-    "static/css/2.cf7cd2cf.chunk.css": "/colors/static/css/2.cf7cd2cf.chunk.css",
-    "static/js/2.2153bea3.chunk.js": "/colors/static/js/2.2153bea3.chunk.js",
-    "static/js/2.2153bea3.chunk.js.map": "/colors/static/js/2.2153bea3.chunk.js.map",
+    "main.css": "/colors/static/css/main.71243b0a.chunk.css",
+    "main.js": "/colors/static/js/main.8fc86954.chunk.js",
+    "main.js.map": "/colors/static/js/main.8fc86954.chunk.js.map",
+    "runtime-main.js": "/colors/static/js/runtime-main.735c9c1b.js",
+    "runtime-main.js.map": "/colors/static/js/runtime-main.735c9c1b.js.map",
+    "static/css/2.3133b376.chunk.css": "/colors/static/css/2.3133b376.chunk.css",
+    "static/js/2.afb2ac15.chunk.js": "/colors/static/js/2.afb2ac15.chunk.js",
+    "static/js/2.afb2ac15.chunk.js.map": "/colors/static/js/2.afb2ac15.chunk.js.map",
     "index.html": "/colors/index.html",
-    "precache-manifest.d966bbe37f3677b59a892ab31e58f4de.js": "/colors/precache-manifest.d966bbe37f3677b59a892ab31e58f4de.js",
+    "precache-manifest.ff7601a56f9af2ddd3e45c57fc7e0554.js": "/colors/precache-manifest.ff7601a56f9af2ddd3e45c57fc7e0554.js",
     "service-worker.js": "/colors/service-worker.js",
-    "static/css/2.cf7cd2cf.chunk.css.map": "/colors/static/css/2.cf7cd2cf.chunk.css.map",
-    "static/css/main.6274c109.chunk.css.map": "/colors/static/css/main.6274c109.chunk.css.map",
+    "static/css/2.3133b376.chunk.css.map": "/colors/static/css/2.3133b376.chunk.css.map",
+    "static/css/main.71243b0a.chunk.css.map": "/colors/static/css/main.71243b0a.chunk.css.map",
+    "static/js/2.afb2ac15.chunk.js.LICENSE.txt": "/colors/static/js/2.afb2ac15.chunk.js.LICENSE.txt",
     "static/media/earth.png": "/colors/static/media/earth.1706bede.png",
     "static/media/font-awesome.min.css": "/colors/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/jupiter.jpg": "/colors/static/media/jupiter.3e27a8b6.jpg",
@@ -26,10 +27,10 @@
     "static/media/venus.jpg": "/colors/static/media/venus.76aa3bea.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7b85bbb8.js",
-    "static/css/2.cf7cd2cf.chunk.css",
-    "static/js/2.2153bea3.chunk.js",
-    "static/css/main.6274c109.chunk.css",
-    "static/js/main.bf768092.chunk.js"
+    "static/js/runtime-main.735c9c1b.js",
+    "static/css/2.3133b376.chunk.css",
+    "static/js/2.afb2ac15.chunk.js",
+    "static/css/main.71243b0a.chunk.css",
+    "static/js/main.8fc86954.chunk.js"
   ]
 }
